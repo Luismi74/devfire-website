@@ -3147,7 +3147,7 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-    color: #fff;
+    color: var(--bg-color);
     background-color: var(--primary-color);
     border-color: var(--primary-color);
 }
@@ -17867,7 +17867,7 @@ fieldset:disabled .btn {
 }
 
 :root {
-    --primary-color: #0ead69;
+    --primary-color: #9343B4;
     --secondary-color: #0a844f;
     --third-color: #ee4266;
     --font-color: #707376;
@@ -17890,8 +17890,8 @@ fieldset:disabled .btn {
 }
 
 [data-theme="dark"] {
-    --primary-color: #0ead69;
-    --secondary-color: #0a844f;
+    --primary-color: #D2E568;
+    --secondary-color: #D2E568;
     --third-color: #ee4266;
     --font-color: #c2c2c2;
     --bg-color: #131212;
@@ -19697,7 +19697,7 @@ ul.icon-list-items li i {
 /*--//Our--Team--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(../images/banner4.jpg) no-repeat center;
+    background: url(../images/code.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
